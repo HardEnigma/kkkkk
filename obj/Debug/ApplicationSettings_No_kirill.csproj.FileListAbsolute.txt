@@ -1,0 +1,17 @@
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\ApplicationSettings_No_kirill.csprojAssemblyReference.cache
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\MainWindow.g.cs
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\Pages\Settings.g.cs
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\App.g.cs
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\ApplicationSettings_Kylosov_MarkupCompile.cache
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\ApplicationSettings_Kylosov_MarkupCompile.lref
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\ApplicationSettings_Kylosov.exe
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\ApplicationSettings_Kylosov.pdb
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\bin\Debug\ApplicationSettings_Kylosov.exe.config
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\bin\Debug\ApplicationSettings_Kylosov.exe
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\bin\Debug\ApplicationSettings_Kylosov.pdb
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\MainWindow.baml
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\Pages\Settings.baml
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\ApplicationSettings_Kylosov.g.resources
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\ApplicationSettings_Kylosov.Properties.Resources.resources
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\ApplicationSettings_No_kirill.csproj.GenerateResource.cache
+H:\рпм 2\wpf\pr10\ApplicationSettings_Kylosov-master\ApplicationSettings_Kylosov-master\obj\Debug\ApplicationSettings_No_kirill.csproj.CoreCompileInputs.cache
